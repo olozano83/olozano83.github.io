@@ -49145,7 +49145,7 @@ return this.d.Bu(a.a,a.b).bh(0,new A.ax8(this,s,a),t.ob)},
 aki(a){A.aDe().$1("Name: "+a)
 return A.oA(A.d8(0,2250),null,t.z).bh(0,new A.ax9(),t.N)},
 E(a,b){var s=A.aZn("Not match!","Confirm","","Atras","Ingresar","Contrase\xf1a","Ok","Para recuperar su contrase\xf1a contacte al administrador","Gracias","Usuario")
-return new A.D5(this.ga8s(),this.gakh(),"Ekkus POS v2.0",null,s,new A.axb(b),null)}}
+return new A.D5(this.ga8s(),this.gakh(),"Ekkus POS v2.1",null,s,new A.axb(b),null)}}
 A.ax8.prototype={
 $1(a){var s,r,q
 if(a==="ok"){s=this.b
